@@ -547,6 +547,7 @@ body {
         justify-content: center;
     }
     .soc-networks {
+        gap: 32px;
         margin-top: 49px;
         order: 1;
     }
